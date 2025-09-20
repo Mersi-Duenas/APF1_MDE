@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(144, 217, 241);  /* Fondo celeste */
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  color: rgb(13, 13, 34);
+}
+
+p {
+  font-size: 18px;
+  color: #414040;
+}
